@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    scroll-behaviour:smooth;
+    scroll-behavior:smooth;
 }
 
 header {
@@ -107,7 +107,7 @@ h1 {
     border: 1px dotted white;
     border-radius:10% 40% 10% 40%;
     transform: scale(1,1);
-    transition: 7s;
+    transition: 4s;
 }
 .box-preporuka h3{
     margin-bottom: 10px;
